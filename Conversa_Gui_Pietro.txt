@@ -1,1 +1,3 @@
 Gui: Olá Pietro, tudo bem?
+
+Pietro: a
