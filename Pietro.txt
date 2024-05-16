@@ -1,1 +1,6 @@
 Pietro: olá
+Luiz Oliveira: if(nota >=6){ 
+	semestre ++ 
+	}else{
+	semestreReset();
+	}
