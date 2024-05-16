@@ -1,1 +1,2 @@
 Pietro: olá
+Gui: Olá Sancho. Va benne?
